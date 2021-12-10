@@ -218,5 +218,5 @@ btn2.grid(column=2, row=2)
 btn2 = Button(window, text="Вывести всех", command=lambda: printall())
 btn2.grid(column=3, row=2)
 
-window.geometry('750x250')
+window.geometry('850x250')
 window.mainloop()
